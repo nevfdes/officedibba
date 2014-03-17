@@ -1,4 +1,7 @@
 officedibba
 ===========
+[Hobby Project]
 
-portal for ordering food for office goers 
+** under development ** 
+
+Portal for ordering food from multiple restaurants, useful for office goers - office dibba
