@@ -1,0 +1,29 @@
+{
+  "name": "officedibba",
+  "version": "0.10.26",
+  "description": "Portal for ordering food",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nevfdes/officedibba.git"
+  },
+  "keywords": [
+    "neville",
+    "food"
+  ],
+  "author": "Neville Fernandes",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/nevfdes/officedibba/issues"
+  },
+  "dependencies": {
+    "logfmt": "~1.0.0-pre",
+    "express": "~3.4.8"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
